@@ -1,7 +1,7 @@
 body
 
 {background-color: darkslategray; color: whitesmoke; font-family:helvetica;margin-bottom: 20px;}
-img {margin-left:300px;Align:Left;width:100px;height:100px;display:inline;}
+img {margin-left:70px;Align:Left;max-width:100%;height:auto;height:100px;display:inline;}
 h1 {margin-Left:284px;font-family:helvetica;}
 h2 {left:300px;text-decoration-line: underline;}
 h3 {Margin-Left:305px;font-family:helvetica;}
